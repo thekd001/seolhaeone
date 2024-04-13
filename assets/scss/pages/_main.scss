@@ -247,6 +247,13 @@
     @include tablet{
         height: auto;
     }
+    &.sec-item06{
+        height: 220vh;
+
+        @include tablet{
+            height: auto;
+        }
+    }
     .content{
         position: sticky;
         top: 0;

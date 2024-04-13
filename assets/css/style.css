@@ -948,6 +948,14 @@ body.oh .header .b_logo {
     height: auto;
   }
 }
+.sec-common.sec-item06 {
+  height: 220vh;
+}
+@media (max-width: 1023px) {
+  .sec-common.sec-item06 {
+    height: auto;
+  }
+}
 .sec-common .content {
   position: sticky;
   top: 0;
